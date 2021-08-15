@@ -2,7 +2,7 @@
 This is the source code for the paper 'Classification of Electromyographic Hand Gesture Signals Using Modified Fuzzy C-Means Clustering and Two-Step Machine Learning Approach (DOI:10.1109/TNSRE.2020.2986884)'
 
 ### Dataset
-The data used in this paper is from \url{R. N. Khushaba, M. Takruri, S. Kodagoda, and G. Dissanayake, "Toward Improved Control of Prosthetic Fingers Using Surface Electromyogram (EMG) Signals", Expert Systems with Applications, vol 39, no. 12, pp. 10731–10738, 2012.}{https://www.rami-khushaba.com/electromyogram-emg-repository.html}
+The data used in this paper is from R. N. Khushaba, M. Takruri, S. Kodagoda, and G. Dissanayake, "Toward Improved Control of Prosthetic Fingers Using Surface Electromyogram (EMG) Signals", Expert Systems with Applications, vol 39, no. 12, pp. 10731–10738, 2012,  and can be downloaded from https://www.rami-khushaba.com/electromyogram-emg-repository.html
 
 
 ### Unsupervised learning part:
