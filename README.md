@@ -9,7 +9,7 @@ The data used in this paper is from R. N. Khushaba, M. Takruri, S. Kodagoda, and
 
 ####Find three groups
 
-script: 
+source code: 
 
 	Implementation_of_modified_FCM.m
 
@@ -23,7 +23,7 @@ script:
 
 ####Train the top model
 
-script: 
+source code: 
 	
 	NN_top_group_3.m
 
@@ -32,7 +32,7 @@ script:
 		top_net_best.mat
 
 ##### Other classifiers:
-script: 
+source code: 
 
 	NN_KNN_SVM_RF_DF.py
 	run rf top classifier  accuracy:96.25%, 0.996875
@@ -59,7 +59,7 @@ After windowing:
 
 #### Obtain the windowing data of each group
 
-script: 
+source code: 
 
     1.new_group1.m
 	2.new_group2.m
@@ -70,7 +70,7 @@ script:
 #### Do the classification in each group
 
 
-script: 
+source code: 
 
     1.CNN_group_1_1.m 
 	2.CNN_group_2_1.m
@@ -92,7 +92,7 @@ The above models are saved respectively in files:
 #### Calculate the final classification accuracy
 
 
-script: 
+source code: 
 
 	final_results_calculation.m
 
@@ -110,7 +110,7 @@ Top model accuracy: 100%
 
 Overall accuracy: 100%
 
-Scripts:
+source code:
 
 	Process_10_classes_to_3_classes_14_01_2020.m
 	CNN_top_for_3_classes.m
