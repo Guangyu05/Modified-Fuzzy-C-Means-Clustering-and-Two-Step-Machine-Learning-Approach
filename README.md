@@ -1,5 +1,9 @@
 # Modified-Fuzzy-C-Means-Clustering-and-Two-Step-Machine-Learning-Approach
-This is the source code for the paper 'Classification of Electromyographic Hand Gesture Signals Using Modified Fuzzy C-Means Clustering and Two-Step Machine Learning Approach'
+This is the source code for the paper 'Classification of Electromyographic Hand Gesture Signals Using Modified Fuzzy C-Means Clustering and Two-Step Machine Learning Approach (DOI:10.1109/TNSRE.2020.2986884)'
+
+### Dataset
+Data can be downloaded from https://www.rami-khushaba.com/electromyogram-emg-repository.html
+
 
 ### Unsupervised learning part:
 
